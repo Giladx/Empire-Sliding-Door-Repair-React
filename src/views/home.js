@@ -61,9 +61,9 @@ const Home = (props) => {
               <nav className="home-links">
                 <span>Home</span>
                 <span>Services</span>
-                <span className="thq-body-small thq-link">About Us</span>
-                <span className="thq-body-small thq-link">Contact</span>
-                <span className="thq-body-small thq-link">Link5</span>
+                <span>About Us</span>
+                <span>Contact</span>
+                <span>Link5</span>
               </nav>
             </div>
             <div className="home-buttons">
@@ -274,6 +274,123 @@ const Home = (props) => {
                   </span>
                 </div>
               </div>
+            </a>
+          </div>
+          <div className="home-row2">
+            <a
+              href="tel:+17862064210"
+              className="thq-body-small thq-link home-link3"
+            >
+              <div className="home-content12">
+                <svg viewBox="0 0 1024 1024" className="thq-icon-medium">
+                  <path d="M512 0c-176.732 0-320 143.268-320 320 0 320 320 704 320 704s320-384 320-704c0-176.732-143.27-320-320-320zM512 512c-106.040 0-192-85.96-192-192s85.96-192 192-192 192 85.96 192 192-85.96 192-192 192z"></path>
+                </svg>
+                <div className="home-contact-info3">
+                  <div className="home-content13">
+                    <h3 className="home-text34 thq-heading-3">
+                      Empire sliding door repair - Lake Worth ,Florida
+                    </h3>
+                    <p className="home-text35 thq-body-large">
+                      <span>5805 Eddy Ct</span>
+                      <br></br>
+                      <span>Lake Worth, FL 33463</span>
+                      <br className="home-text39"></br>
+                      <span>United States</span>
+                    </p>
+                  </div>
+                  <span className="home-address3 thq-body-small">
+                    +17862064210
+                  </span>
+                </div>
+              </div>
+            </a>
+            <a
+              href="tel:+17862040489"
+              className="thq-body-small thq-link home-link4"
+            >
+              <div className="home-content14">
+                <svg viewBox="0 0 1024 1024" className="thq-icon-medium">
+                  <path d="M512 0c-176.732 0-320 143.268-320 320 0 320 320 704 320 704s320-384 320-704c0-176.732-143.27-320-320-320zM512 512c-106.040 0-192-85.96-192-192s85.96-192 192-192 192 85.96 192 192-85.96 192-192 192z"></path>
+                </svg>
+                <div className="home-contact-info4">
+                  <div className="home-content15">
+                    <h3 className="home-text41 thq-heading-3">
+                      <span>Empire sliding door repair -</span>
+                      <br></br>
+                      <span> Boca Raton ,Florida</span>
+                    </h3>
+                    <p className="home-text45 thq-body-large">
+                      <span>647 NW 12th Rd</span>
+                      <br className="home-text47"></br>
+                      <span>Boca Raton, FL 33486</span>
+                      <br className="home-text49"></br>
+                      <span>United States</span>
+                    </p>
+                  </div>
+                  <span className="home-address4 thq-body-small">
+                    +17862040489
+                  </span>
+                </div>
+              </div>
+            </a>
+            <a
+              href="tel:+17863147054"
+              className="thq-body-small thq-link home-link5"
+            >
+              <div className="home-content16">
+                <svg viewBox="0 0 1024 1024" className="thq-icon-medium">
+                  <path d="M512 0c-176.732 0-320 143.268-320 320 0 320 320 704 320 704s320-384 320-704c0-176.732-143.27-320-320-320zM512 512c-106.040 0-192-85.96-192-192s85.96-192 192-192 192 85.96 192 192-85.96 192-192 192z"></path>
+                </svg>
+                <div className="home-contact-info5">
+                  <div className="home-content17">
+                    <h3 className="home-text51 thq-heading-3">
+                      Empire sliding door repair - Doral ,Florida
+                    </h3>
+                    <p className="home-text52 thq-body-large">
+                      <span>5861 NW 112th Ct</span>
+                      <br></br>
+                      <span>Doral, FL 33178</span>
+                      <br className="home-text56"></br>
+                      <span>United States</span>
+                    </p>
+                  </div>
+                  <span className="home-address5 thq-body-small">
+                    +17863147054
+                  </span>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="home-row3">
+            <a href="tel:+17862065938" className="home-link6">
+              <div className="home-content18">
+                <svg viewBox="0 0 1024 1024" className="thq-icon-medium">
+                  <path d="M512 0c-176.732 0-320 143.268-320 320 0 320 320 704 320 704s320-384 320-704c0-176.732-143.27-320-320-320zM512 512c-106.040 0-192-85.96-192-192s85.96-192 192-192 192 85.96 192 192-85.96 192-192 192z"></path>
+                </svg>
+                <div className="home-contact-info6">
+                  <div className="home-content19">
+                    <h3 className="home-text58 thq-heading-3">
+                      Empire sliding door repair - Naples ,Florida
+                    </h3>
+                    <p className="home-text59 thq-body-large">
+                      <span>9066 Shenendoah Cir</span>
+                      <br className="home-text61"></br>
+                      <span>Naples, FL 34113</span>
+                      <br className="home-text63"></br>
+                      <span>United States</span>
+                    </p>
+                  </div>
+                  <span className="home-address6 thq-body-small">
+                    +17862065938
+                  </span>
+                </div>
+              </div>
+            </a>
+            <a href="tel:+17862040489" className="home-link7">
+              <div className="home-content20"></div>
+            </a>
+            <a href="tel:+17863147054" className="home-link8">
+              <div className="home-content21"></div>
             </a>
           </div>
         </div>
